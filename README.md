@@ -26,7 +26,13 @@ A Aplicação é baseada nos pilares do Objetivo de Desenvolvimento Sustentável
 <img align="center"  alt="logo" src="https://images-ext-2.discordapp.net/external/uYALRVu4D4WLMbtpv8jvn4XiqYd0ip5iVZay8PmM3n4/https/i.imgur.com/FguOnQN.png?width=386&height=375">
 
 
-# Documentação![home](https://user-images.githubusercontent.com/64945428/126825877-580f0b27-5cbb-44f7-8068-84d2afd872f4.png)
+# Documentação
+
+https://rssalutem.herokuapp.com/swagger-ui/
+
++ login: admin
++ senha: admin
+
 # Imagens da Salutem
 
 
