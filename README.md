@@ -23,10 +23,12 @@ A Aplicação é baseada nos pilares do Objetivo de Desenvolvimento Sustentável
 + Usuário Médico: é necessário obter um número de CRM para a verificação do profissional, esse tipo de usuário pode criar diversos grupos para o compartilhamento de informações.
 
 ## Logo da Rede Social
-<img align="center"  alt="logo" src="https://images-ext-2.discordapp.net/external/uYALRVu4D4WLMbtpv8jvn4XiqYd0ip5iVZay8PmM3n4/https/i.imgur.com/FguOnQN.png?width=386&height=375">
+<div align=center>
+<img    alt="logo" src="https://images-ext-2.discordapp.net/external/uYALRVu4D4WLMbtpv8jvn4XiqYd0ip5iVZay8PmM3n4/https/i.imgur.com/FguOnQN.png?width=386&height=375">
+  
+</div>
 
-
-# Documentação
+## Documentação
 
 https://rssalutem.herokuapp.com/swagger-ui/
 
