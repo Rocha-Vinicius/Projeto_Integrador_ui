@@ -1,4 +1,6 @@
-# Projeto Integrador Salutem
+<h1 align=center> Projeto Integrador Salutem </h1>
+  
+  
 ## Integrantes
 
  + 👀 [Giullia Maria Ramos da Silva](https://github.com/jujups "GitHub")
